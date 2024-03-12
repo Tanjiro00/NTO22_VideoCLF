@@ -1,0 +1,4 @@
+{
+    "image": "lizadocker/vqa:0.2",
+    "entry_point": "python3 test.py"
+}
